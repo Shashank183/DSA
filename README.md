@@ -2,7 +2,6 @@
 
 > Consistent problem-solving journey to master Data Structures & Algorithms using C++
 
----
 
 ## 📌 Overview
 
@@ -14,18 +13,16 @@ The goal of this repository is to build strong problem-solving skills, improve c
 * 💡 Focus on optimized and clean code
 * 🎯 Target: Product-based companies & coding interviews
 
----
 
 ## 📊 Progress Tracker
 
 | Difficulty | Problems Solved |
 | ---------- | --------------- |
-| 🟢 Easy    | 09              |
-| 🟡 Medium  | 01             |
+| 🟢 Easy    | 18              |
+| 🟡 Medium  | 02             |
 | 🔴 Hard    | 00             |
-| **Total**  | 10             |
+| **Total**  | 20             |
 
----
 
 ## 🧠 Topics Covered
 
@@ -41,7 +38,6 @@ The goal of this repository is to build strong problem-solving skills, improve c
 * Bit Manipulation
 * Sliding Window & Two Pointers
 
----
 
 
 Each file contains:
@@ -50,13 +46,11 @@ Each file contains:
 * ✔️ Approach / Logic
 * ✔️ Clean C++ solution
 
----
 
 ## 📅 Daily Commitment
 
 I solve at least **1 problem every day** to maintain consistency and improve logical thinking.
 
----
 
 ## 🔥 Goals
 
@@ -65,7 +59,6 @@ I solve at least **1 problem every day** to maintain consistency and improve log
 * ⏱️ Improve problem-solving speed
 * 🧠 Master advanced algorithms
 
----
 
 ## 📈 Future Improvements
 
@@ -74,19 +67,16 @@ I solve at least **1 problem every day** to maintain consistency and improve log
 * Add optimized solutions (multiple approaches)
 * Create topic-wise notes
 
----
 
 ## 🤝 Contributions
 
 This is a personal learning repository, but suggestions and improvements are always welcome!
 
----
 
 ## 📜 License
 
 This repository is open-source and free to use.
 
----
 
 ## 👨‍💻 Author
 
@@ -94,6 +84,5 @@ This repository is open-source and free to use.
 
 * GitHub: https://github.com/Shashank183
 
----
 
 ⭐ If you find this helpful, consider giving it a star!
