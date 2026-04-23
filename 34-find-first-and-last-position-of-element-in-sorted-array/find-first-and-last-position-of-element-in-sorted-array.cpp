@@ -1,16 +1,12 @@
 class Solution {
 public:
     vector<int> searchRange(vector<int>& nums, int target) {
-        vector<int> b;
-        for(int i=0; i<nums.size(); i++){
-            if(nums[i]==target){
-                b.push_back(i);
-            }
-            
+        if (nums.empty()) return {-1, -1};
+        int lb=lower_bound(nums.begin(),nums.end(),target)-nums.begin();
+        int ub=upper_bound(nums.begin(),nums.end(),target)-nums.begin();
+        if(lb==nums.size() || nums[lb]!=target){
+            return {-1,-1};
         }
-        if(b.empty()){
-            return{-1,-1};
-        }
-        return {b.front(), b.back()};
+        return {lb,ub-1};
     }
 };
